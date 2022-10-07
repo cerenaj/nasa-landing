@@ -1,0 +1,58 @@
+body {
+width: 850px;
+margin: 0 auto;
+
+}
+
+
+main {
+  width:850px;
+  height: 450px;
+  background-image: url("images/orion.jpg");
+  color: white;
+  margin-bottom: 20px;
+}
+
+section {
+  display:flex;
+  height:324px;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: rgb(224, 222, 222);
+}
+
+
+article {
+  width: 270px;
+  height: 374px;
+}
+
+.article-heading {
+  font-family: "Anton", sans-serif;
+  font-weight: bold;
+  font-size: 22px;
+  margin-left: 40px;
+  margin-top: 30px;
+}
+
+.article-profiles {
+  font-family: "PT Serif", sans-serif;
+  font-weight: normal;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 40px;
+  color: gray;
+}
+
+
+.main-text {
+padding: 175px 0;
+margin-left: 355px ;
+font-size: 60px;
+}
+
+
+.Message{
+margin-top: 20px;
+
+}
